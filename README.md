@@ -21,3 +21,31 @@
 
 [Click here](care_translated.md) to view all columns in this table
 
+# hospice_therapy_translated
+
+## Columns - 
+
+### [PatientID](hospice_therapy_translated/PatientID.md)
+### [EHRID](hospice_therapy_translated/EHRID.md)
+### [Age](hospice_therapy_translated/Age.md)
+### [Sex](hospice_therapy_translated/Sex.md)
+### [StartOfHospitalization](hospice_therapy_translated/StartOfHospitalization.md)
+### [EndOfHospitalization](hospice_therapy_translated/EndOfHospitalization.md)
+### [Diagnosis](hospice_therapy_translated/Diagnosis.md)
+### [TipeOfTherapy](hospice_therapy_translated/TipeOfTherapy.md) - contains values "Standard" and "When needed"
+### [DrugName](hospice_therapy_translated/DrugName.md) - regional drug name
+### [DrugCode](hospice_therapy_translated/DrugCode.md)
+### [ATCCode](hospice_therapy_translated/ATCCode.md)
+### [ComplementaryCodeDose](hospice_therapy_translated/ComplementaryCodeDose.md) - some sort of dosage information
+### [ActiveIngredient](hospice_therapy_translated/ActiveIngredient.md) - generic drug name
+### [Packacing](hospice_therapy_translated/Packacing.md)
+### [TypeOfUsage](hospice_therapy_translated/TypeOfUsage.md) - "transdermal", "inhalation" etc.
+### [Dose](hospice_therapy_translated/Dose.md)
+### [HoursString](hospice_therapy_translated/HoursString.md) - the time at which medicine should be administered. "8; 10; 18" means that the treatment should be given at 8 am, 10am and at 6 pm
+### [MaxDose](hospice_therapy_translated/MaxDose.md)
+### [Frequency](hospice_therapy_translated/Frequency.md)
+### [Duration](hospice_therapy_translated/Duration.md) - some sort of duration. Exact meaning still a mystery (would be helpful to find out more about this from Vidas).
+
+
+
+
