@@ -1,7 +1,6 @@
 # Summary of the Vidas Hospice Data
 
-#### Tables in the data and selected important columns in each table (refer the individual table files to view all columns) - 
-
+All the tables in Vidas Hospice data along with important columns in each table is presented below. Click on any column name to view the most frequently occuring values in that column. 
 
 # care_translated
 
