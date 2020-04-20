@@ -10,12 +10,12 @@
 | Diagnosis is not cancer                    |   15414 | -                           |
 | Brain-snc                                  |   15151 | Jesse Goodspeed             | 
 | Liver-biliary                              |   12450 |                             |
-| Head-neck                                  |    9674 |                             |
+| Head-neck                                  |    9674 | Harshul Shukla              |
 | Stomach                                    |    9253 | Ayanava Sarkar              | 
 | Prostate                                   |    8166 | Daivat Bhatt                | 
 | Bladder                                    |    6577 | Andre Dvorak                |
 | Kidney                                     |    5445 | Andre Dvorak                |
-| Ovary                                      |    5098 |                             |
+| Ovary                                      |    5098 | Harshul Shukla              |
 | Uterus                                     |    4794 | Aishwarya                   |
 | Leukemia-Lymphoma                          |    4749 | Jeel Bhavsar                |
 | Pleura-peritoneal                          |    3907 |                             |
