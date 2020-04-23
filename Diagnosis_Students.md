@@ -9,7 +9,7 @@
 | Breast                                     |   16023 | Prasanna Lakkur Subramanyam |
 | Diagnosis is not cancer                    |   15414 | -                           |
 | Brain-snc                                  |   15151 | Jesse Goodspeed             | 
-| Liver-biliary                              |   12450 |                             |
+| Liver-biliary                              |   12450 | Ajinkya                     |
 | Head-neck                                  |    9674 | Harshul Shukla              |
 | Stomach                                    |    9253 | Ayanava Sarkar              | 
 | Prostate                                   |    8166 | Daivat Bhatt                | 
@@ -21,7 +21,7 @@
 | Pleura-peritoneal                          |    3907 | Hieu Phan                            |
 | Other                                      |    3636 | -                           |
 | not known                                  |    2953 | -                           |
-| Bone-soft tissue                           |    2479 |                             |
+| Bone-soft tissue                           |    2479 | Ajinkya                     |
 | Skin                                       |    2296 | Ryan Gandolfi               |
 | Esophagus                                  |    1679 | Pratheek Mallya             |
 | Myelomas-other myeloproliferative diseases |    1335 | Jeel Bhavsar                |
